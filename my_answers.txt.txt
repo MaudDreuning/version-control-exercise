@@ -1,2 +1,10 @@
 my_answers.txt
+<<<<<<< HEAD
 hoihoi
+=======
+d
+d
+d
+d
+d
+>>>>>>> 1e7621187aadb7b16ce80aa2c06678feb9fbd432
